@@ -1,0 +1,168 @@
+.major_div{
+    background-color: cyan;
+    position: relative;
+    border: 2px solid red;
+    width: 30%;
+    left: 40%;
+}
+.text{
+    background-color: black;
+    position: relative;
+    border: 2px solid black;
+    width: 93%;
+    left: 3%;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.text p{
+    margin: 10px;
+}
+#output{
+    position: relative;
+    background-color: white;
+    border: 2px solid black;
+    width: 93%;
+    left: 3%;
+    margin-top: 2%;
+    height: 50px;
+    text-align: right;
+    font-size: 20px;
+}
+#various{
+    position: relative;
+    background-color: white;
+    border: 2px solid black;
+    width: 93%;
+    left: 3%;
+    margin-top: 2%;
+}
+.div1{
+    position: relative;
+    /* border: 2px solid red; */
+    display: flex;
+}
+.hovering:hover{
+    border: 1px solid black;
+    
+    
+}
+#clear{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 24%;
+    /* display: inline-block; */
+}
+.style{
+    text-align: center;
+    font-size: 20px;
+}
+#signchange{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 24%;
+    left: 0.5%;
+}
+#percent{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 26%;
+    left: 1%;
+}
+#divide{
+    position: relative;
+    background-color: red;
+    width: 24%;
+    /* border: 2px solid black; */
+    left: 1.5%;
+}
+#seven{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 24%;
+}
+#eight{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 24%;
+    left: 0.5%;
+}
+#nine{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 26%;
+    left: 1%;
+}
+#multiply{
+    position: relative;
+    background-color: red;
+    width: 24%;
+    /* border: 2px solid black; */
+    left: 1.5%;
+}
+#four{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 24%;
+}
+#five{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 24%;
+    left: 0.5%;
+}
+#six{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 26%;
+    left: 1%;
+}
+#minus{
+    position: relative;
+    background-color: red;
+    width: 24%;
+    /* border: 2px solid black; */
+    left: 1.5%;
+}
+#one{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 24%;
+}
+#two{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 24%;
+    left: 0.5%;
+}
+#three{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 26%;
+    left: 1%;
+}
+#plus{
+    position: relative;
+    background-color: red;
+    width: 24%;
+    /* border: 2px solid black; */
+    left: 1.5%;
+}
+#zero{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 49%;
+}
+#dot{
+    position: relative;
+    /* border: 1px solid black; */
+    width: 25.5%;
+    left: 0.5%;
+}
+#equal{
+    position: relative;
+    background-color: red;
+    width: 24%;
+    /* border: 2px solid black; */
+    left: 1%;
+}
